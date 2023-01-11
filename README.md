@@ -1,2 +1,2 @@
-# SuperPlus
+# Ts-discord-bot-template
  
