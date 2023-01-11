@@ -18,6 +18,7 @@ export const Executor = (bot: Client, interaction: ChatInputCommandInteraction) 
             interaction,
             bot
         )
+        return
     }
 
     var sub
