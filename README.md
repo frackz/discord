@@ -1,6 +1,8 @@
-# Ts-discord-bot-template
+# ts-discord
+```
 npm i discord.js
-npm run go
- 
-tja, navnet siger det hele. Gå ind i src/config.ts for at ændre i configurationen. Husk at brug "npm run go" for at køre lortet, dette sletter gamle builds (husk også og skriv "y" når den spørg). I starten vil den sige "Mappen kunne ikke findes", det er normalt.
 
+npm run go
+```
+ 
+For at starte projektet skal du skrive `npm run go`, dette vil bygge projektet og køre det efter
